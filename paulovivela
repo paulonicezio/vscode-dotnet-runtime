@@ -1,0 +1,10 @@
+using System;
+using System.Diagnostics;
+using System.Windows.Forms;
+
+namespace OpenGoogleExample
+{
+    public class MainForm : Form
+    {
+        private Button button1;
+        private Button button2;
